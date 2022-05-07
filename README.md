@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Srinja333
 - 👀 I’m interested in  web development
-- 🌱 I’m currently doing a project on web development
+- 🌱 I’m currently doing a project on web development and devops
 - 📫 my working email is: srinjayayan1262000@gmail.com
 
 <!---
