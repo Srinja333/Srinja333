@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Srinja333
+- 👋 Hi, I’m srinjay kapri
 - 👀 I’m interested in software developer role
 - 🌱 I’m currently doing a project on web development 
 - 📫 my working email is: srinjayayan1262000@gmail.com
