@@ -1,5 +1,5 @@
 - 👋 Hi, I’m srinjay kapri
-- 👀 I’m interested in software developer role OR web developer role OR cloud engineer
+- 👀 I’m interested in software developer role OR web developer role OR cloud engineer role
 - 🌱 I’m currently building advanced chat application based on mern stack, learning terraform, continuously practicing & learning dsa
 - 📫 my working email is: srinjayayan1262000@gmail.com
 
