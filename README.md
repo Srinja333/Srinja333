@@ -1,9 +1,9 @@
 [![image](https://www.linkpicture.com/q/banner_71.png)](https://www.linkpicture.com/view.php?img=LPic6410cc433ea0b653367914)
 
 
-<h3 align="center">I am a MERN stack developer, Fascinate to learn devops, Enthusiast in open source, DSA guy  </h3>
+<h3 align="center"> MERN Stack Developer || Fascinate To Learn Devops || Open Source Contributor || DSA Guy  </h3>
 
-<br>
+<br> 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=srinja333&label=Profile%20views&color=0e75b6&style=flat" alt="srinja333" /> 
 <a href="https://twitter.com/kaprisrinjay" target="blank"><img src="https://img.shields.io/twitter/follow/kaprisrinjay?logo=twitter&style=for-the-badge" alt="kaprisrinjay" />
