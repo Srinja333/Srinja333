@@ -1,7 +1,7 @@
 [![image](https://www.linkpicture.com/q/banner_71.png)](https://www.linkpicture.com/view.php?img=LPic6410cc433ea0b653367914)
 
 
-<h3 align="center"> MERN Stack Developer || Fascinate To Learn Devops || Open Source Contributor || DSA Guy  </h3>
+<h3 align="center"> ⚡ MERN Stack Developer ⚡ Fascinate To Learn Devops ⚡ Open Source Contributor ⚡ DSA Guy  </h3>
 
 <br> 
 
@@ -13,9 +13,9 @@
 
 <br>
 
-- 🔭 I’m currently working on **chatX (advanced chat web app)**
+- 🔭 I’m currently working on **chatX (advance chat web app)**
 
-- 🌱 I’m currently **learning Terraform, contributing in opensources, practicing and learning DSA**
+- 🌱 I’m currently **learning Terraform, actively contributing to opensources, practicing and learning DSA**
 
 - 📫 How to reach me **srinjayayan1262000@gmail.com**
 
