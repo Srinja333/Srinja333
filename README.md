@@ -13,7 +13,7 @@
 
 <br>
 
-- 🔭 I’m currently working on **chatX (advance chat web app)**
+- 🔭 I’m currently working on **chatX (advance chat web app using mern stack)**
 
 - 🌱 I’m currently **learning Terraform, actively contributing to opensources, practicing and learning DSA**
 
