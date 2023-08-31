@@ -13,9 +13,9 @@
 
 <br>
 
-- 🔭 I’m currently learning **devops** and do **freelancing**
+- 🔭 I’m currently working as a **freelancer**
 
-- 🌱 I’m currently **learning Terraform, actively contributing to opensources, practicing and learning DSA**
+- 🌱 I’m currently learning **Devops** 
 
 - 📫 How to reach me **srinjayayan1262000@gmail.com**
 
