@@ -13,7 +13,7 @@
 
 <br>
 
-- 🔭 I’m currently working as a **freelancer**
+- 🔭 I’m currently working as a **Freelancer**
 
 - 🌱 I’m currently learning **Devops** 
 
