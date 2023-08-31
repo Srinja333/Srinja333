@@ -13,7 +13,7 @@
 
 <br>
 
-- 🔭 I’m currently learning devops and do freelancing**
+- 🔭 I’m currently learning **devops** and do **freelancing**
 
 - 🌱 I’m currently **learning Terraform, actively contributing to opensources, practicing and learning DSA**
 
