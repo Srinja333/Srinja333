@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working as a **Freelancer**
 
-- 🌱 I’m currently learning **Devops** 
+- 🌱 I’m currently learning **Flutter** 
 
 - 📫 How to reach me **srinjayayan1262000@gmail.com**
 
