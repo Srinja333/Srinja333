@@ -7,9 +7,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=srinja333&label=Profile%20views&color=0e75b6&style=flat" alt="srinja333" /> 
 <a href="https://twitter.com/kaprisrinjay" target="blank"><img src="https://img.shields.io/twitter/follow/kaprisrinjay?logo=twitter&style=for-the-badge" alt="kaprisrinjay" />
-  </a><a href="https://www.linkedin.com/in/srinjaykapri/" target="blank">
+  </a>
+<!--   <a href="https://www.linkedin.com/in/srinjaykapri/" target="blank">
   <img src="">
-  </a> </p>
+  </a> -->
+</p>
 
 <br>
 
@@ -31,7 +33,5 @@
 <h3> Github Stats:</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srinja333&show_icons=true&locale=en&layout=compact" alt="srinja333" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srinja333&show_icons=true&locale=en" alt="srinja333" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srinja333&" alt="srinja333" /></p>
