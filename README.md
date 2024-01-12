@@ -33,5 +33,5 @@
 <h3> Github Stats:</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srinja333&show_icons=true&locale=en&layout=compact" alt="srinja333" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srinja333&show_icons=true&locale=en" alt="srinja333" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srinja333&" alt="srinja333" /></p>
