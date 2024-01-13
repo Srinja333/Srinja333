@@ -1,7 +1,7 @@
 
 
 
-<h3 align="center">  MERN Stack Developer ⚡ Fascinate To Learn Devops ⚡ Open Source Contributor ⚡ DSA Guy  </h3>
+<h3 align="center">  MERN Stack Developer ⚡ Fascinate To Learn Devops ⚡ Open Source Contributor ⚡ DSA   </h3>
 
 <br> 
 
