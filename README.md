@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working as a **Freelancer**
 
-- 🌱 I’m currently Strengthening my **DSA** skills and learning **Flutter**
+- 🌱 I’m currently Strengthening my **DSA** skills
 
 - 📫 How to reach me **srinjayayan1262000@gmail.com**
 
