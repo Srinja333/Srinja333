@@ -15,9 +15,9 @@
 
 <br>
 
-- 🔭 I’m currently working as a **Freelancer**
+- 🔭 I’m currently working at Yactraq as a software developer
 
-- 🌱 I’m currently Strengthening my **DSA** skills
+- 🌱 I’m currently learning Devops
 
 - 📫 How to reach me **srinjayayan1262000@gmail.com**
 
